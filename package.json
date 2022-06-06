@@ -1,0 +1,26 @@
+{
+  "name": "hdlbits-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigeryang/hdlbits-solutions.git"
+  },
+  "author": "Siger Yang <siger.yang@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigeryang/hdlbits-solutions/issues"
+  },
+  "homepage": "https://github.com/sigeryang/hdlbits-solutions#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-cookiejar-support": "^4.0.2",
+    "cheerio": "^1.0.0-rc.11",
+    "dotenv": "^16.0.1",
+    "tough-cookie": "^4.0.0"
+  }
+}
