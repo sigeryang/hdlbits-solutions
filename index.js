@@ -121,7 +121,7 @@ const hdlbitsLoad = async (problem, saved) => {
         } else {
             if (node.status == 'finished') {
                 const filename = node.url.split('/').at(-1) + '.v';
-                markdown += `- [X] [${node.title}](${node.url}) [${filename}](./solutions/${filename})\n`;
+                markdown += `- [X] [${node.title}](${node.url}) (Solution: [${filename}](./solutions/${filename}))\n`;
                 const page = (await api.get(node.url)).data;
                 const tc = page.match(/send\("tc=([^"]+)"/)[1];
                 const solution = await hdlbitsLoad(tc, '0');
