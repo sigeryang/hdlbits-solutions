@@ -107,7 +107,7 @@ My solutions to problem sets on HDLBits (https://hdlbits.01xz.net).
 - [X] [3-bit binary adder](http://hdlbits.01xz.net/wiki/adder3) (Solution: [adder3.v](./solutions/adder3.v))
 - [X] [Adder](http://hdlbits.01xz.net/wiki/exams/m2014_q4j) (Solution: [m2014_q4j.v](./solutions/m2014_q4j.v))
 - [X] [Signed addition overflow](http://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c) (Solution: [ece241_2014_q1c.v](./solutions/ece241_2014_q1c.v))
-- [ ] [100-bit binary adder](http://hdlbits.01xz.net/wiki/adder100)
+- [X] [100-bit binary adder](http://hdlbits.01xz.net/wiki/adder100) (Solution: [adder100.v](./solutions/adder100.v))
 - [ ] [4-digit BCD adder](http://hdlbits.01xz.net/wiki/bcdadd4)
 
 ### Karnaugh Map to Circuit
@@ -151,14 +151,14 @@ My solutions to problem sets on HDLBits (https://hdlbits.01xz.net).
 - [X] [Decade counter](http://hdlbits.01xz.net/wiki/count10) (Solution: [count10.v](./solutions/count10.v))
 - [X] [Decade counter again](http://hdlbits.01xz.net/wiki/count1to10) (Solution: [count1to10.v](./solutions/count1to10.v))
 - [X] [Slow decade counter](http://hdlbits.01xz.net/wiki/countslow) (Solution: [countslow.v](./solutions/countslow.v))
-- [ ] [Counter 1-12](http://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a)
+- [X] [Counter 1-12](http://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a) (Solution: [ece241_2014_q7a.v](./solutions/ece241_2014_q7a.v))
 - [ ] [Counter 1000](http://hdlbits.01xz.net/wiki/exams/ece241_2014_q7b)
 - [ ] [4-digit decimal counter](http://hdlbits.01xz.net/wiki/countbcd)
 - [ ] [12-hour clock](http://hdlbits.01xz.net/wiki/count_clock)
 
 ### Shift Registers
 
-- [ ] [4-bit shift register](http://hdlbits.01xz.net/wiki/shift4)
+- [X] [4-bit shift register](http://hdlbits.01xz.net/wiki/shift4) (Solution: [shift4.v](./solutions/shift4.v))
 - [ ] [Left/right rotator](http://hdlbits.01xz.net/wiki/rotate100)
 - [ ] [Left/right arithmetic shift by 1 or 8](http://hdlbits.01xz.net/wiki/shift18)
 - [ ] [5-bit LFSR](http://hdlbits.01xz.net/wiki/lfsr5)
