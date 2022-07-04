@@ -2,6 +2,11 @@
 
 My solutions to problem sets on HDLBits (https://hdlbits.01xz.net).
 
+Usage:
+
+```
+node index.js
+```
 # Getting Started
 
 - [X] [Getting Started](http://hdlbits.01xz.net/wiki/step_one) (Solution: [step_one.v](./solutions/step_one.v))
